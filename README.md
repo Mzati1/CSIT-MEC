@@ -6,15 +6,7 @@
 ╚██████╗███████║██║   ██║       ███████║╚██████╔╝╚██████╗██║███████╗   ██║      ██║   
  ╚═════╝╚══════╝╚═╝   ╚═╝       ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚══════╝   ╚═╝      ╚═╝
 ```
-
-> **A comprehensive data repository for CSIT Society elections - built through collaboration, refined through iterations.**
-
 ---
-
-## 🏛️ About This Repository
-
-Welcome to the official data repository for the **Computer Science and Information Technology (CSIT) Society Elections**. This repository serves as the central hub for all election-related data, documentation, and collaborative efforts to ensure transparent, accurate, and well-documented electoral processes.
-
 
 ### 🛠️ Contributing Guidelines
 
