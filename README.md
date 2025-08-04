@@ -40,7 +40,7 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Mzati1/CSIT-MEC
-   cd election-data
+   cd CSIT-MEC
    ```
 
 2. **Pull latest changes**
